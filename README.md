@@ -1,2 +1,2 @@
 # book_store
-#Css bilgilerimi geliştiriyorum.
+# Css bilgilerimi geliştiriyorum.
