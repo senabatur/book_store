@@ -1,0 +1,71 @@
+body{
+    height: 75vh;
+    text-align: center;
+    background-color: #FFF8DC;
+    font-family: 'Poppins', sans-serif;
+}
+
+.titleBig{
+    color: #FF8C00;
+}
+.titleMedium{
+    color: sienna;
+}
+.titleSmall{
+    color: coral;
+}
+
+h5{
+    color: #0b2d39;
+   
+}
+.menu li{
+    font-size: 18px;
+    list-style: none;
+    display: inline;
+}
+
+
+.menu li a:hover{
+    color: rosybrown;
+    font-weight: bold;
+}
+
+.menu li a{
+    text-decoration: none;
+    padding-right: 20px;
+    color: rosybrown;
+}
+.home{
+    height: 100%;
+}
+.home li{
+    margin-bottom: 5px;
+    
+    list-style: none;
+}
+.home li a{
+    color: #0b2d39;
+    font-weight: bold;
+text-decoration: none;
+
+}
+.home li a:hover{
+    color: rosybrown;
+ 
+
+}
+.product div {
+    font-size: 18px;
+    list-style: none; 
+}
+.product div img{
+height: 200px;
+}
+.about{
+    height: 75vh;
+}
+.footer{
+    bottom: 0;
+    width: 100%;
+}
